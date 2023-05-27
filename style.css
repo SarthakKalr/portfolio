@@ -1,0 +1,25 @@
+#port{
+    font-size: 100px;
+    font-weight: bolder;
+    font-family: 'Tilt Prism', cursive;
+border-width: 30px;
+border-radius: 10px;
+border-color: black;
+border-style: double;
+
+
+}
+#open{
+    width: 40% ;
+    height: 5%;
+background-color: aqua;
+color:blue;
+    font-size: xx-large;
+    font-weight: bolder;
+    font-family: 'Tilt Prism', cursive;
+border-width: 15px;
+border-radius: 10px;
+
+border-color: black;
+border-style: double;
+}
